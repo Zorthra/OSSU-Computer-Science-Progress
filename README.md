@@ -39,7 +39,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-2  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | - | [-]() | [-]()
+2  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | - | [-](https://github.com/Zorthra/OSSU-Computer-Science-Coursework/blob/master/Proofs/test.txt) | [-]()
 3  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | - | - |  [-]()
 4  |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | - | - | [-]()
 5  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-
