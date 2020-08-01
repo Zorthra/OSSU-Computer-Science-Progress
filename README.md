@@ -10,7 +10,9 @@
 
 - [Summary](#summary)
 - [Progress](#progress)
+  - [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Introduction to CS Tools](#introduction-t-cs-tools)
   - [Core CS](#core-cs)
   - [Advanced CS](#advanced-cs)
   - [Final Project](#final-project)
@@ -27,11 +29,23 @@ OSSU describes the program as:
 
 # Progress
 
+## Introduction to Programming
+
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+1 | - | [Python for Everybody](https://www.py4e.com/) | May 2020 | Reviewed Only | None
+
 ## Introduction to Computer Science
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-1 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | [-]() | [-]()
+2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | [-]() | [-]()
+
+## Introduction to CS Tools
+
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+3 | MITx | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | - | [-]() | [-]()
 
 ## Core CS
 
@@ -39,52 +53,66 @@ Course # | School | Course | Completion Date | Proof | Repository
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-2  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | - | [test](https://github.com/Zorthra/OSSU-Computer-Science-Progress/blob/master/Proofs/test.txt) | [-]()
-3  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | - | - |  [-]()
-4  |  UBCx | [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)  | - | - | [-]()
-5  | UBCx  | [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)  |  - |-   |-
+4  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | - | [-]() | [-]()
+5  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | - | - |  [-]()
 6  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -  | -
 7  | University of Washington  |  [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)  | -  | -  |  -
 8  | University of Washington  | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)  | -  | -  | -
-9 | - | [Learn You a Haskell for a Great Good! by Miran Lipovača](http://learnyouahaskell.com/chapters) | - | - | -
-10 | - | [Learn Prolog Now! by Patrick Blackburn, Johan Bos, and Kristina Striegnitz](http://lpn.swi-prolog.org/lpnpage.php?pageid=online) | - | - | [-]()
+
+### Math Elective
+
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+9  | - | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | - | - | -
+10 | - | [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | - | - | -
 
 ### Core Math
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-11 | - | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | -
-12 | UTAustinX | [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!) | - | - | -
-13 | MITx | [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | - | - | -
-14 | MITx | [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-00) | - | - | -
-15 | MITx | [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | - | - | -
-16 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
+11 | MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | - | - | -
 
 ### Core Systems
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-17 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | - | - | [-]()
-18 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | - | - | -
-19 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
-20 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
-21 | - | [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | - | - | -
+12 | HarvardX | [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) | - | - | [-]()
+13 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | - | - | -
+14 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
+15 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
+ - | - | Additional Assignments [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)
+16 | - | [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | - | - | -
 
 ### Core Theory
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-22 | Stanford Lagunita | [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | - | - | -
-23 | Stanford Lagunita | [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | - | - | -
+17 | - | [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | - | - | - 
+18 | - | [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | - | - | - 
+19 | - | [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | - | - | - 
+20 | - | [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | - | - | - 
+
+### Core Security
+
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+21 | - | [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | - | - | - 
+22 | - | [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | - | - | - 
+23 | - | [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | - | - | -
+
+### Core Security Elective
+
+Course # | School | Course | Completion Date | Proof | Repository
+:--: | :--: | :--: | :--: | :--: | :--:
+24 | - | [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | - | - | -
 
 ### Core Applications
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-24 | Stanford Lagunita | [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | - | - | -
-25 | Stanford University | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | - | -
-26 | UC San DiegoX | [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | - | - | -
-27 | Stanford University | [Cryptography I](https://www.coursera.org/course/crypto) | - | - | -
+25 | Stanford Lagunita | [Relational Database Systems](https://www.coursera.org/learn/relational-database) | - | - | -
+26 | Stanford University | [Machine Learning](https://www.coursera.org/learn/machine-learning) | - | - | -
+27 | UC San DiegoX | [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | - | - | -
 28 | UBCx | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | - | - | -
 29 | UBCx | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | - | - | -
 
