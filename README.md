@@ -39,7 +39,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 
 Course # | School | Course | Completion Date | Proof | Repository
 :--: | :--: | :--: | :--: | :--: | :--:
-2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | - | [-]() | [-]()
+2 | MITx | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Aug 2020 | [edX Progress Page](https://github.com/Zorthra/OSSU-Computer-Science-Progress/blob/master/Proofs/Screenshot%20from%202020-08-02%2016-51-41.png) | [Private Coursework](https://github.com/Zorthra/IntroToCS6001x)
 
 ## Introduction to CS Tools
 
@@ -80,7 +80,7 @@ Course # | School | Course | Completion Date | Proof | Repository
 13 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | - | - | -
 14 | Hebrew University of Jerusalem | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | - | - | -
 15 | Stanford Lagunita | [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | - | - | -
- - | - | Additional Assignments [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)
+15*| - | Additional Assignments [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf)
 16 | - | [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | - | - | -
 
 ### Core Theory
