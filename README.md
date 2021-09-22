@@ -32,7 +32,7 @@ OSSU describes the program as:
 ## Introduction to Programming
 
 Course # | School | Course | Completion Date | Proof
-:--: | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--:
 1 | - | [Python for Everybody](https://www.py4e.com/) | May 2020 | Reviewed Only
 
 ## Introduction to Computer Science
@@ -47,7 +47,7 @@ Course # | School | Course | Completion Date | Proof
 ### Core Programming
 
 Course # | School | Course | Completion Date | Proof
-:--: | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--:
 3  | UBCx | [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | Sep 2021 | [edX Certificate](https://github.com/Zorthra/OSSU-Computer-Science-Progress/blob/master/Proofs/How-to-Code_Simple-Data.pdf)
 4  |  UBCx | [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)  | - | -
 5  | University of Washington  | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)  | -  | -
